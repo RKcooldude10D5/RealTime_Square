@@ -1,0 +1,17 @@
+.headshot{
+    width: 80%;
+    box-shadow: 5px 5px 5px grey;
+}
+.copyright_footer{
+    position: fixed;
+    bottom: 0px;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    font-size: medium;
+}
+canvas{
+    border: 5px solid #0275d8;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
